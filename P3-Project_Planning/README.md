@@ -7,7 +7,8 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-https://app.diagrams.net/#G1nMTi5Rgq-3oRRSU3o90krSCy6KpG9s0_
+![flow](https://user-images.githubusercontent.com/73921140/115799687-a3036100-a39e-11eb-92db-3da8786bbd12.jpg)
+
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
